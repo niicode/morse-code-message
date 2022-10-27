@@ -34,4 +34,14 @@ def morse_letter(letter)
   @code_hash[letter]
 end
 
+# changing morse code to a word
+def morse_word(word)
+  word.split.map { |letter| morse_letter(letter) }.join
+end
+
+# changing the morse code into a sentence
+def morse_sentence(sentence)
+  sentence.split('   ').map { |word| morse_word(word) }.join(' ')
+end
+
 puts morse_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
