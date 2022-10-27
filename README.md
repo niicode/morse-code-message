@@ -1,19 +1,17 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/morse_code-blue)
 
-# Project Name
+# Morse Code
 
-> Description the project.
+> Morse Code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes or dits and dahs. Morse code is named for Samuel F. B. Morse, an inventor of the telegraph.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[soon](https://#)
 
 
 ## Getting Started
@@ -26,31 +24,28 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Ruby
+
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Clone the repository to your local machine using `git clone https://github.com/niicode/morse-code-message.git`
+- `cd` into the project directory
+- Run `bundle install` to install the required gems
+- Run `bin/main.rb` to start the program
 
 ## Authors
 
-👤 **Author1**
+👤 **Nii Darku**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@niicode](https://github.com/niicode)
+- Twitter: [@_niicode](https://twitter.com/_niicode)
+- LinkedIn: [Nii Darku](https://linkedin.com/in/niicode)
 
-👤 **Author2**
+👤 **Yunus Ali**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@IamYunusALi](https://github.com/iamyunusali)
+- Twitter: [@IamYunusAli](https://twitter.com/iamyunusali)
+- LinkedIn: [Yunus Ali](https://linkedin.com/in/iamyunusali)
 
 ## 🤝 Contributing
 
@@ -62,14 +57,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
